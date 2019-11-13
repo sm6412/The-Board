@@ -1,0 +1,67 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - music
+  - Screen Manager
+  - Intense Music
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 61364837
+    locked: 0
+  - name: Character
+    uniqueID: 2146970757
+    locked: 0
+  - name: Top Character
+    uniqueID: 4164186059
+    locked: 0
+  - name: Text Box
+    uniqueID: 963287851
+    locked: 0
+  - name: Text
+    uniqueID: 2577692809
+    locked: 0
+  - name: Replay
+    uniqueID: 2799904791
+    locked: 0
+  - name: Replay Text
+    uniqueID: 1278176633
+    locked: 0
